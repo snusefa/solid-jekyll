@@ -4,7 +4,7 @@
 title: SEFA
 description: "Subsea Engineering and Flow Assurance Laboratory, Seoul National Univ."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/solid-jekyll/" #important: start with /
+baseurl: "/snusefa/solid-jekyll/" #important: start with /
 url: "http://yourdomain.com"
 
 # Build settings
